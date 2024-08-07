@@ -61,6 +61,8 @@ The Trade Journal is a desktop application for keeping track of trade entries. U
 
 ## Usage
 
+![alt text](image.png)
+
 ### Adding a Trade Entry
 1. Open the application.
 2. Go to the "Add Entry" tab.
