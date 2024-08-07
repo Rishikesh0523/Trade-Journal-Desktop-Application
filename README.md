@@ -22,8 +22,8 @@ The Trade Journal is a desktop application for keeping track of trade entries. U
 
 1. **Clone the repository or download the script.**
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/Rishikesh0523/Trade-Journal-Desktop-Application.git
+   cd Trade-Journal-Desktop-Application
    ```
 
 2. **Ensure all required libraries are installed.**
